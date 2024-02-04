@@ -74,6 +74,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/includes/homeworks_structure.h">
+			<Option target="Homeworks_Geekbrains"/>
+		</Unit>
+		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/src/homeworks_structure.c">
+			<Option target="Homeworks_Geekbrains"/>
+		</Unit>
 		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/src/main.c">
 			<Option target="Homeworks_Geekbrains"/>
 		</Unit>

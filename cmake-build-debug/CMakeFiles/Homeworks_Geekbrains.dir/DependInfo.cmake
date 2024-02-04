@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "D:/Projects_C/Homeworks_Geekbrains/src/homeworks_structure.c" "CMakeFiles/Homeworks_Geekbrains.dir/src/homeworks_structure.c.obj" "gcc" "CMakeFiles/Homeworks_Geekbrains.dir/src/homeworks_structure.c.obj.d"
   "D:/Projects_C/Homeworks_Geekbrains/src/main.c" "CMakeFiles/Homeworks_Geekbrains.dir/src/main.c.obj" "gcc" "CMakeFiles/Homeworks_Geekbrains.dir/src/main.c.obj.d"
   )
 

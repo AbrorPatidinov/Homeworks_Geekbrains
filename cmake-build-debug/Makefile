@@ -128,6 +128,30 @@ Homeworks_Geekbrains/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/build
 .PHONY : Homeworks_Geekbrains/fast
 
+src/homeworks_structure.obj: src/homeworks_structure.c.obj
+.PHONY : src/homeworks_structure.obj
+
+# target to build an object file
+src/homeworks_structure.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/homeworks_structure.c.obj
+.PHONY : src/homeworks_structure.c.obj
+
+src/homeworks_structure.i: src/homeworks_structure.c.i
+.PHONY : src/homeworks_structure.i
+
+# target to preprocess a source file
+src/homeworks_structure.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/homeworks_structure.c.i
+.PHONY : src/homeworks_structure.c.i
+
+src/homeworks_structure.s: src/homeworks_structure.c.s
+.PHONY : src/homeworks_structure.s
+
+# target to generate assembly for a file
+src/homeworks_structure.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/homeworks_structure.c.s
+.PHONY : src/homeworks_structure.c.s
+
 src/main.obj: src/main.c.obj
 .PHONY : src/main.obj
 
@@ -161,6 +185,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Homeworks_Geekbrains
+	@echo ... src/homeworks_structure.obj
+	@echo ... src/homeworks_structure.i
+	@echo ... src/homeworks_structure.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s

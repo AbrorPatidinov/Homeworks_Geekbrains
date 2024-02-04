@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Homeworks_Geekbrains.dir/src/homeworks_structure.c.obj"
+  "CMakeFiles/Homeworks_Geekbrains.dir/src/homeworks_structure.c.obj.d"
   "CMakeFiles/Homeworks_Geekbrains.dir/src/main.c.obj"
   "CMakeFiles/Homeworks_Geekbrains.dir/src/main.c.obj.d"
   "Homeworks_Geekbrains.exe"
