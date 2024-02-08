@@ -4,7 +4,7 @@
 	<Project>
 		<Option title="Homeworks_Geekbrains"/>
 		<Option makefile_is_custom="1"/>
-		<Option compiler="gcc"/>
+		<Option compiler="clang"/>
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
@@ -22,11 +22,10 @@
 				<Option working_dir="D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
-				<Option compiler="gcc"/>
+				<Option compiler="clang"/>
 				<Compiler>
-					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include"/>
-					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../include"/>
-					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include-fixed"/>
+					<Add directory="C:/msys64/mingw64/lib/clang/17/include"/>
+					<Add directory="C:/msys64/mingw64/include"/>
 				</Compiler>
 				<MakeCommands>
 					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 Homeworks_Geekbrains"/>
@@ -40,11 +39,10 @@
 				<Option working_dir="D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
-				<Option compiler="gcc"/>
+				<Option compiler="clang"/>
 				<Compiler>
-					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include"/>
-					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../include"/>
-					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include-fixed"/>
+					<Add directory="C:/msys64/mingw64/lib/clang/17/include"/>
+					<Add directory="C:/msys64/mingw64/include"/>
 				</Compiler>
 				<MakeCommands>
 					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 Homeworks_Geekbrains/fast"/>
@@ -74,6 +72,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/includes/additional.h">
+			<Option target="Homeworks_Geekbrains"/>
+		</Unit>
 		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/includes/homeworks_structure.h">
 			<Option target="Homeworks_Geekbrains"/>
 		</Unit>
