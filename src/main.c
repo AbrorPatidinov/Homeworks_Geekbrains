@@ -8,7 +8,7 @@ int main()
 {
     printf_s("\n");
 
-    seminar_2(FALSE, FALSE, FALSE, TRUE);
+    seminar_2(FALSE, FALSE, FALSE, FALSE);
 
     printf_s("\n");
     return EXIT_SUCCESS;
