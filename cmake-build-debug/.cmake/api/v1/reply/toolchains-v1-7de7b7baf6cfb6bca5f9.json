@@ -5,29 +5,34 @@
 		{
 			"compiler" : 
 			{
-				"id" : "Clang",
+				"id" : "GNU",
 				"implicit" : 
 				{
 					"includeDirectories" : 
 					[
-						"C:/msys64/mingw64/lib/clang/17/include",
-						"C:/msys64/mingw64/include"
+						"C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include",
+						"C:/TDM-GCC-64/include",
+						"C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed",
+						"C:/TDM-GCC-64/x86_64-w64-mingw32/include"
 					],
 					"linkDirectories" : 
 					[
-						"C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0",
-						"C:/msys64/mingw64/x86_64-w64-mingw32/lib",
-						"C:/msys64/mingw64/x86_64-w64-mingw32/mingw/lib",
-						"C:/msys64/mingw64/lib",
-						"C:/msys64/mingw64/lib/clang/17/lib/windows"
+						"C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0",
+						"C:/TDM-GCC-64/lib/gcc",
+						"C:/TDM-GCC-64/x86_64-w64-mingw32/lib",
+						"C:/TDM-GCC-64/lib"
 					],
 					"linkFrameworkDirectories" : [],
 					"linkLibraries" : 
 					[
 						"mingw32",
 						"gcc",
+						"pthread",
+						"gcc",
+						"kernel32",
 						"moldname",
 						"mingwex",
+						"kernel32",
 						"pthread",
 						"advapi32",
 						"shell32",
@@ -35,13 +40,16 @@
 						"kernel32",
 						"mingw32",
 						"gcc",
+						"pthread",
+						"gcc",
+						"kernel32",
 						"moldname",
 						"mingwex",
 						"kernel32"
 					]
 				},
-				"path" : "C:/msys64/mingw64/bin/clang.exe",
-				"version" : "17.0.6"
+				"path" : "C:/TDM-GCC-64/bin/gcc.exe",
+				"version" : "10.3.0"
 			},
 			"language" : "C",
 			"sourceFileExtensions" : 
@@ -54,7 +62,7 @@
 			"compiler" : 
 			{
 				"implicit" : {},
-				"path" : "C:/msys64/mingw64/bin/windres.exe"
+				"path" : "D:/CLion 2023.3.3/bin/mingw/bin/windres.exe"
 			},
 			"language" : "RC",
 			"sourceFileExtensions" : 

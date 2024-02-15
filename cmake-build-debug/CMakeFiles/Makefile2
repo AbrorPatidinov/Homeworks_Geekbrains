@@ -80,12 +80,12 @@ clean: CMakeFiles/Homeworks_Geekbrains.dir/clean
 CMakeFiles/Homeworks_Geekbrains.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles --progress-num=1,2,3 "Built target Homeworks_Geekbrains"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5 "Built target Homeworks_Geekbrains"
 .PHONY : CMakeFiles/Homeworks_Geekbrains.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Homeworks_Geekbrains.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles 5
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Homeworks_Geekbrains.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/Homeworks_Geekbrains.dir/rule

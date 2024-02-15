@@ -1,5 +1,5 @@
-CMakeFiles/Homeworks_Geekbrains.dir/src/main.c.obj: \
- D:\Projects_C\Homeworks_Geekbrains\src\main.c \
+CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_2.c.obj: \
+ D:\Projects_C\Homeworks_Geekbrains\src\seminar_2.c \
  C:/TDM-GCC-64/x86_64-w64-mingw32/include/stdio.h \
  C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
  C:/TDM-GCC-64/x86_64-w64-mingw32/include/corecrt.h \
@@ -19,8 +19,4 @@ CMakeFiles/Homeworks_Geekbrains.dir/src/main.c.obj: \
  C:/TDM-GCC-64/x86_64-w64-mingw32/include/crtdefs.h \
  C:/TDM-GCC-64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
  C:/TDM-GCC-64/x86_64-w64-mingw32/include/malloc.h \
- D:/Projects_C/Homeworks_Geekbrains/includes/additional.h \
- D:/Projects_C/Homeworks_Geekbrains/includes/seminar_1.h \
- D:/Projects_C/Homeworks_Geekbrains/includes/additional.h \
- D:/Projects_C/Homeworks_Geekbrains/includes/seminar_2.h \
- D:/Projects_C/Homeworks_Geekbrains/includes/seminar_3.h
+ D:/Projects_C/Homeworks_Geekbrains/includes/additional.h

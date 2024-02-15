@@ -75,17 +75,7 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Clang-C.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "D:/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/Clang.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "D:/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+			"path" : "D:/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-C.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -100,12 +90,7 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-Clang-C.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "D:/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-Clang.cmake"
+			"path" : "D:/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-C.cmake"
 		},
 		{
 			"isCMake" : true,

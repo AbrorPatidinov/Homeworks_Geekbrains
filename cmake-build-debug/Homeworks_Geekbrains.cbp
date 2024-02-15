@@ -4,17 +4,17 @@
 	<Project>
 		<Option title="Homeworks_Geekbrains"/>
 		<Option makefile_is_custom="1"/>
-		<Option compiler="clang"/>
+		<Option compiler="gcc"/>
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
 				<Option working_dir="D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Homeworks_Geekbrains">
@@ -22,16 +22,18 @@
 				<Option working_dir="D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
-				<Option compiler="clang"/>
+				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/msys64/mingw64/lib/clang/17/include"/>
-					<Add directory="C:/msys64/mingw64/include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 Homeworks_Geekbrains"/>
-					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 Homeworks_Geekbrains"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Homeworks_Geekbrains/fast">
@@ -39,49 +41,63 @@
 				<Option working_dir="D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
-				<Option compiler="clang"/>
+				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/msys64/mingw64/lib/clang/17/include"/>
-					<Add directory="C:/msys64/mingw64/include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 Homeworks_Geekbrains/fast"/>
-					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 Homeworks_Geekbrains/fast"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
 				<Option working_dir="D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;D:/Projects_C/Homeworks_Geekbrains/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
 		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/includes/additional.h">
 			<Option target="Homeworks_Geekbrains"/>
 		</Unit>
-		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/includes/homeworks_structure.h">
+		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/includes/seminar_1.h">
 			<Option target="Homeworks_Geekbrains"/>
 		</Unit>
-		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/src/homeworks_structure.c">
+		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/includes/seminar_2.h">
+			<Option target="Homeworks_Geekbrains"/>
+		</Unit>
+		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/includes/seminar_3.h">
 			<Option target="Homeworks_Geekbrains"/>
 		</Unit>
 		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/src/main.c">
+			<Option target="Homeworks_Geekbrains"/>
+		</Unit>
+		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/src/seminar_1.c">
+			<Option target="Homeworks_Geekbrains"/>
+		</Unit>
+		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/src/seminar_2.c">
+			<Option target="Homeworks_Geekbrains"/>
+		</Unit>
+		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/src/seminar_3.c">
 			<Option target="Homeworks_Geekbrains"/>
 		</Unit>
 		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/CMakeLists.txt">

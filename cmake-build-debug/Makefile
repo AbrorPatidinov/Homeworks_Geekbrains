@@ -128,30 +128,6 @@ Homeworks_Geekbrains/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/build
 .PHONY : Homeworks_Geekbrains/fast
 
-src/homeworks_structure.obj: src/homeworks_structure.c.obj
-.PHONY : src/homeworks_structure.obj
-
-# target to build an object file
-src/homeworks_structure.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/homeworks_structure.c.obj
-.PHONY : src/homeworks_structure.c.obj
-
-src/homeworks_structure.i: src/homeworks_structure.c.i
-.PHONY : src/homeworks_structure.i
-
-# target to preprocess a source file
-src/homeworks_structure.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/homeworks_structure.c.i
-.PHONY : src/homeworks_structure.c.i
-
-src/homeworks_structure.s: src/homeworks_structure.c.s
-.PHONY : src/homeworks_structure.s
-
-# target to generate assembly for a file
-src/homeworks_structure.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/homeworks_structure.c.s
-.PHONY : src/homeworks_structure.c.s
-
 src/main.obj: src/main.c.obj
 .PHONY : src/main.obj
 
@@ -176,6 +152,78 @@ src/main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/main.c.s
 .PHONY : src/main.c.s
 
+src/seminar_1.obj: src/seminar_1.c.obj
+.PHONY : src/seminar_1.obj
+
+# target to build an object file
+src/seminar_1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_1.c.obj
+.PHONY : src/seminar_1.c.obj
+
+src/seminar_1.i: src/seminar_1.c.i
+.PHONY : src/seminar_1.i
+
+# target to preprocess a source file
+src/seminar_1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_1.c.i
+.PHONY : src/seminar_1.c.i
+
+src/seminar_1.s: src/seminar_1.c.s
+.PHONY : src/seminar_1.s
+
+# target to generate assembly for a file
+src/seminar_1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_1.c.s
+.PHONY : src/seminar_1.c.s
+
+src/seminar_2.obj: src/seminar_2.c.obj
+.PHONY : src/seminar_2.obj
+
+# target to build an object file
+src/seminar_2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_2.c.obj
+.PHONY : src/seminar_2.c.obj
+
+src/seminar_2.i: src/seminar_2.c.i
+.PHONY : src/seminar_2.i
+
+# target to preprocess a source file
+src/seminar_2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_2.c.i
+.PHONY : src/seminar_2.c.i
+
+src/seminar_2.s: src/seminar_2.c.s
+.PHONY : src/seminar_2.s
+
+# target to generate assembly for a file
+src/seminar_2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_2.c.s
+.PHONY : src/seminar_2.c.s
+
+src/seminar_3.obj: src/seminar_3.c.obj
+.PHONY : src/seminar_3.obj
+
+# target to build an object file
+src/seminar_3.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_3.c.obj
+.PHONY : src/seminar_3.c.obj
+
+src/seminar_3.i: src/seminar_3.c.i
+.PHONY : src/seminar_3.i
+
+# target to preprocess a source file
+src/seminar_3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_3.c.i
+.PHONY : src/seminar_3.c.i
+
+src/seminar_3.s: src/seminar_3.c.s
+.PHONY : src/seminar_3.s
+
+# target to generate assembly for a file
+src/seminar_3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_3.c.s
+.PHONY : src/seminar_3.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -185,12 +233,18 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Homeworks_Geekbrains
-	@echo ... src/homeworks_structure.obj
-	@echo ... src/homeworks_structure.i
-	@echo ... src/homeworks_structure.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s
+	@echo ... src/seminar_1.obj
+	@echo ... src/seminar_1.i
+	@echo ... src/seminar_1.s
+	@echo ... src/seminar_2.obj
+	@echo ... src/seminar_2.i
+	@echo ... src/seminar_2.s
+	@echo ... src/seminar_3.obj
+	@echo ... src/seminar_3.i
+	@echo ... src/seminar_3.s
 .PHONY : help
 
 
