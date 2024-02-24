@@ -10,4 +10,6 @@ add_executable(Homeworks_Geekbrains src/main.c
         includes/seminar_2.h
         src/seminar_2.c
         includes/seminar_3.h
-        src/seminar_3.c)
+        src/seminar_3.c
+        includes/seminar_4.h
+        src/seminar_4.c)

@@ -1,5 +1,5 @@
-CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_3.c.obj: \
- D:\Projects_C\Homeworks_Geekbrains\src\seminar_3.c \
+CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_4.c.obj: \
+ D:\Projects_C\Homeworks_Geekbrains\src\seminar_4.c \
  D:/MSYS2/ucrt64/include/stdio.h \
  D:/MSYS2/ucrt64/include/corecrt_stdio_config.h \
  D:/MSYS2/ucrt64/include/corecrt.h D:/MSYS2/ucrt64/include/_mingw.h \

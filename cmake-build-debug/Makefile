@@ -224,6 +224,30 @@ src/seminar_3.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_3.c.s
 .PHONY : src/seminar_3.c.s
 
+src/seminar_4.obj: src/seminar_4.c.obj
+.PHONY : src/seminar_4.obj
+
+# target to build an object file
+src/seminar_4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_4.c.obj
+.PHONY : src/seminar_4.c.obj
+
+src/seminar_4.i: src/seminar_4.c.i
+.PHONY : src/seminar_4.i
+
+# target to preprocess a source file
+src/seminar_4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_4.c.i
+.PHONY : src/seminar_4.c.i
+
+src/seminar_4.s: src/seminar_4.c.s
+.PHONY : src/seminar_4.s
+
+# target to generate assembly for a file
+src/seminar_4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_4.c.s
+.PHONY : src/seminar_4.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -245,6 +269,9 @@ help:
 	@echo ... src/seminar_3.obj
 	@echo ... src/seminar_3.i
 	@echo ... src/seminar_3.s
+	@echo ... src/seminar_4.obj
+	@echo ... src/seminar_4.i
+	@echo ... src/seminar_4.s
 .PHONY : help
 
 
