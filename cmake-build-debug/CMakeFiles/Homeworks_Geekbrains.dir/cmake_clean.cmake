@@ -9,6 +9,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_3.c.obj.d"
   "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_4.c.obj"
   "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_4.c.obj.d"
+  "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_5.c.obj"
+  "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_5.c.obj.d"
   "Homeworks_Geekbrains.exe"
   "Homeworks_Geekbrains.exe.manifest"
   "Homeworks_Geekbrains.pdb"

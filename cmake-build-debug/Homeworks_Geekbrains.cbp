@@ -89,6 +89,9 @@
 		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/includes/seminar_4.h">
 			<Option target="Homeworks_Geekbrains"/>
 		</Unit>
+		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/includes/seminar_5.h">
+			<Option target="Homeworks_Geekbrains"/>
+		</Unit>
 		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/src/main.c">
 			<Option target="Homeworks_Geekbrains"/>
 		</Unit>
@@ -102,6 +105,9 @@
 			<Option target="Homeworks_Geekbrains"/>
 		</Unit>
 		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/src/seminar_4.c">
+			<Option target="Homeworks_Geekbrains"/>
+		</Unit>
+		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/src/seminar_5.c">
 			<Option target="Homeworks_Geekbrains"/>
 		</Unit>
 		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/CMakeLists.txt">

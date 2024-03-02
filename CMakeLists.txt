@@ -12,4 +12,6 @@ add_executable(Homeworks_Geekbrains src/main.c
         includes/seminar_3.h
         src/seminar_3.c
         includes/seminar_4.h
-        src/seminar_4.c)
+        src/seminar_4.c
+        includes/seminar_5.h
+        src/seminar_5.c)

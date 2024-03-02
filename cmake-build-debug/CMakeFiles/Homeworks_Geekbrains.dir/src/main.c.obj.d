@@ -23,4 +23,5 @@ CMakeFiles/Homeworks_Geekbrains.dir/src/main.c.obj: \
  D:/Projects_C/Homeworks_Geekbrains/includes/additional.h \
  D:/Projects_C/Homeworks_Geekbrains/includes/seminar_2.h \
  D:/Projects_C/Homeworks_Geekbrains/includes/seminar_3.h \
- D:/Projects_C/Homeworks_Geekbrains/includes/seminar_4.h
+ D:/Projects_C/Homeworks_Geekbrains/includes/seminar_4.h \
+ D:/Projects_C/Homeworks_Geekbrains/includes/seminar_5.h
