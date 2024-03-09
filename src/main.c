@@ -8,12 +8,13 @@
 #include "../includes/seminar_3.h"
 #include "../includes/seminar_4.h"
 #include "../includes/seminar_5.h"
+#include "../includes/seminar_6.h"
 
 int main()
 {
     printf_s("\n");
 
-    seminar_5(FALSE, FALSE, FALSE, FALSE);
+    seminar_6(FALSE, FALSE, FALSE);
 
     printf_s("\n");
     return EXIT_SUCCESS;

@@ -1,7 +1,7 @@
-set(CMAKE_C_COMPILER "D:/MSYS2/ucrt64/bin/gcc.exe")
+set(CMAKE_C_COMPILER "C:/TDM-GCC-64/bin/gcc.exe")
 set(CMAKE_C_COMPILER_ARG1 "")
 set(CMAKE_C_COMPILER_ID "GNU")
-set(CMAKE_C_COMPILER_VERSION "13.2.0")
+set(CMAKE_C_COMPILER_VERSION "10.3.0")
 set(CMAKE_C_COMPILER_VERSION_INTERNAL "")
 set(CMAKE_C_COMPILER_WRAPPER "")
 set(CMAKE_C_STANDARD_COMPUTED_DEFAULT "17")
@@ -21,11 +21,11 @@ set(CMAKE_C_SIMULATE_VERSION "")
 
 
 
-set(CMAKE_AR "D:/MSYS2/ucrt64/bin/ar.exe")
-set(CMAKE_C_COMPILER_AR "D:/MSYS2/ucrt64/bin/gcc-ar.exe")
-set(CMAKE_RANLIB "D:/MSYS2/ucrt64/bin/ranlib.exe")
-set(CMAKE_C_COMPILER_RANLIB "D:/MSYS2/ucrt64/bin/gcc-ranlib.exe")
-set(CMAKE_LINKER "D:/MSYS2/ucrt64/bin/ld.exe")
+set(CMAKE_AR "C:/TDM-GCC-64/bin/ar.exe")
+set(CMAKE_C_COMPILER_AR "C:/TDM-GCC-64/bin/gcc-ar.exe")
+set(CMAKE_RANLIB "C:/TDM-GCC-64/bin/ranlib.exe")
+set(CMAKE_C_COMPILER_RANLIB "C:/TDM-GCC-64/bin/gcc-ranlib.exe")
+set(CMAKE_LINKER "C:/TDM-GCC-64/bin/ld.exe")
 set(CMAKE_MT "")
 set(CMAKE_TAPI "CMAKE_TAPI-NOTFOUND")
 set(CMAKE_COMPILER_IS_GNUCC 1)
@@ -68,7 +68,7 @@ endif()
 
 
 
-set(CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES "D:/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include;D:/MSYS2/ucrt64/include;D:/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include-fixed")
-set(CMAKE_C_IMPLICIT_LINK_LIBRARIES "mingw32;gcc;moldname;mingwex;kernel32;pthread;advapi32;shell32;user32;kernel32;mingw32;gcc;moldname;mingwex;kernel32")
-set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "D:/MSYS2/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0;D:/MSYS2/ucrt64/lib/gcc;D:/MSYS2/ucrt64/x86_64-w64-mingw32/lib;D:/MSYS2/ucrt64/lib")
+set(CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES "C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include;C:/TDM-GCC-64/include;C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed;C:/TDM-GCC-64/x86_64-w64-mingw32/include")
+set(CMAKE_C_IMPLICIT_LINK_LIBRARIES "mingw32;gcc;pthread;gcc;kernel32;moldname;mingwex;kernel32;pthread;advapi32;shell32;user32;kernel32;mingw32;gcc;pthread;gcc;kernel32;moldname;mingwex;kernel32")
+set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0;C:/TDM-GCC-64/lib/gcc;C:/TDM-GCC-64/x86_64-w64-mingw32/lib;C:/TDM-GCC-64/lib")
 set(CMAKE_C_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "")

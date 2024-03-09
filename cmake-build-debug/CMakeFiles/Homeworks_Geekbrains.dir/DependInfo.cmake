@@ -14,6 +14,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "D:/Projects_C/Homeworks_Geekbrains/src/seminar_3.c" "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_3.c.obj" "gcc" "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_3.c.obj.d"
   "D:/Projects_C/Homeworks_Geekbrains/src/seminar_4.c" "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_4.c.obj" "gcc" "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_4.c.obj.d"
   "D:/Projects_C/Homeworks_Geekbrains/src/seminar_5.c" "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_5.c.obj" "gcc" "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_5.c.obj.d"
+  "D:/Projects_C/Homeworks_Geekbrains/src/seminar_6.c" "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_6.c.obj" "gcc" "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_6.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
