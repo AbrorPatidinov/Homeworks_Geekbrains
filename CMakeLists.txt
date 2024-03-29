@@ -20,4 +20,8 @@ add_executable(Homeworks_Geekbrains src/main.c
         src/seminar_7/task_1.c
         src/seminar_7/task_2.c
         src/seminar_7/task_3.c
-        src/seminar_7/task_4.c)
+        src/seminar_7/task_4.c
+        src/seminar_8/task_1.c
+        src/seminar_8/task_2.c
+        src/seminar_8/task_3.c
+        src/seminar_8/task_4.c)

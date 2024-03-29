@@ -130,6 +130,18 @@
 		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/src/seminar_7/task_4.c">
 			<Option target="Homeworks_Geekbrains"/>
 		</Unit>
+		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/src/seminar_8/task_1.c">
+			<Option target="Homeworks_Geekbrains"/>
+		</Unit>
+		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/src/seminar_8/task_2.c">
+			<Option target="Homeworks_Geekbrains"/>
+		</Unit>
+		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/src/seminar_8/task_3.c">
+			<Option target="Homeworks_Geekbrains"/>
+		</Unit>
+		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/src/seminar_8/task_4.c">
+			<Option target="Homeworks_Geekbrains"/>
+		</Unit>
 		<Unit filename="D:/Projects_C/Homeworks_Geekbrains/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
