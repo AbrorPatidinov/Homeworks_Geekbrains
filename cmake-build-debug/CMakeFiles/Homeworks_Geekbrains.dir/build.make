@@ -72,211 +72,253 @@ CMakeFiles/Homeworks_Geekbrains.dir/src/main.c.obj: CMakeFiles/Homeworks_Geekbra
 CMakeFiles/Homeworks_Geekbrains.dir/src/main.c.obj: D:/Projects_C/Homeworks_Geekbrains/src/main.c
 CMakeFiles/Homeworks_Geekbrains.dir/src/main.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Homeworks_Geekbrains.dir/src/main.c.obj"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/main.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\main.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\main.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\main.c
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/main.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\main.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\main.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\main.c
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Homeworks_Geekbrains.dir/src/main.c.i"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\main.c > CMakeFiles\Homeworks_Geekbrains.dir\src\main.c.i
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\main.c > CMakeFiles\Homeworks_Geekbrains.dir\src\main.c.i
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Homeworks_Geekbrains.dir/src/main.c.s"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\main.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\main.c.s
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\main.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\main.c.s
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_1.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/flags.make
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_1.c.obj: D:/Projects_C/Homeworks_Geekbrains/src/seminar_1.c
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_1.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_1.c.obj"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_1.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_1.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_1.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_1.c
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_1.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_1.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_1.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_1.c
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_1.c.i"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_1.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_1.c.i
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_1.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_1.c.i
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_1.c.s"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_1.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_1.c.s
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_1.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_1.c.s
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_2.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/flags.make
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_2.c.obj: D:/Projects_C/Homeworks_Geekbrains/src/seminar_2.c
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_2.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_2.c.obj"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_2.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_2.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_2.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_2.c
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_2.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_2.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_2.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_2.c
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_2.c.i"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_2.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_2.c.i
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_2.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_2.c.i
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_2.c.s"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_2.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_2.c.s
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_2.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_2.c.s
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_3.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/flags.make
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_3.c.obj: D:/Projects_C/Homeworks_Geekbrains/src/seminar_3.c
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_3.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_3.c.obj"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_3.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_3.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_3.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_3.c
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_3.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_3.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_3.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_3.c
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_3.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_3.c.i"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_3.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_3.c.i
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_3.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_3.c.i
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_3.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_3.c.s"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_3.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_3.c.s
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_3.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_3.c.s
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_4.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/flags.make
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_4.c.obj: D:/Projects_C/Homeworks_Geekbrains/src/seminar_4.c
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_4.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_4.c.obj"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_4.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_4.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_4.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_4.c
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_4.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_4.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_4.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_4.c
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_4.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_4.c.i"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_4.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_4.c.i
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_4.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_4.c.i
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_4.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_4.c.s"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_4.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_4.c.s
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_4.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_4.c.s
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_5.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/flags.make
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_5.c.obj: D:/Projects_C/Homeworks_Geekbrains/src/seminar_5.c
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_5.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_5.c.obj"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_5.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_5.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_5.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_5.c
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_5.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_5.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_5.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_5.c
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_5.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_5.c.i"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_5.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_5.c.i
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_5.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_5.c.i
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_5.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_5.c.s"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_5.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_5.c.s
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_5.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_5.c.s
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_6.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/flags.make
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_6.c.obj: D:/Projects_C/Homeworks_Geekbrains/src/seminar_6.c
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_6.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_6.c.obj"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_6.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_6.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_6.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_6.c
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_6.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_6.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_6.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_6.c
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_6.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_6.c.i"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_6.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_6.c.i
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_6.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_6.c.i
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_6.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_6.c.s"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_6.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_6.c.s
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_6.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_6.c.s
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_1.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/flags.make
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_1.c.obj: D:/Projects_C/Homeworks_Geekbrains/src/seminar_7/task_1.c
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_1.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_1.c.obj"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_1.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_1.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_1.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_1.c
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_1.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_1.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_1.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_1.c
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_1.c.i"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_1.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_1.c.i
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_1.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_1.c.i
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_1.c.s"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_1.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_1.c.s
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_1.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_1.c.s
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_2.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/flags.make
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_2.c.obj: D:/Projects_C/Homeworks_Geekbrains/src/seminar_7/task_2.c
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_2.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_2.c.obj"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_2.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_2.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_2.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_2.c
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_2.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_2.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_2.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_2.c
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_2.c.i"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_2.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_2.c.i
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_2.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_2.c.i
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_2.c.s"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_2.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_2.c.s
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_2.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_2.c.s
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_3.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/flags.make
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_3.c.obj: D:/Projects_C/Homeworks_Geekbrains/src/seminar_7/task_3.c
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_3.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_3.c.obj"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_3.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_3.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_3.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_3.c
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_3.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_3.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_3.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_3.c
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_3.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_3.c.i"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_3.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_3.c.i
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_3.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_3.c.i
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_3.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_3.c.s"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_3.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_3.c.s
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_3.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_3.c.s
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_4.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/flags.make
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_4.c.obj: D:/Projects_C/Homeworks_Geekbrains/src/seminar_7/task_4.c
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_4.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_4.c.obj"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_4.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_4.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_4.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_4.c
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_4.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_4.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_4.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_4.c
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_4.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_4.c.i"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_4.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_4.c.i
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_4.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_4.c.i
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_4.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_7/task_4.c.s"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_4.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_4.c.s
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_7\task_4.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_7\task_4.c.s
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_1.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/flags.make
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_1.c.obj: D:/Projects_C/Homeworks_Geekbrains/src/seminar_8/task_1.c
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_1.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_1.c.obj"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_1.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_1.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_1.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_1.c
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_1.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_1.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_1.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_1.c
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_1.c.i"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_1.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_1.c.i
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_1.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_1.c.i
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_1.c.s"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_1.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_1.c.s
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_1.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_1.c.s
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_2.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/flags.make
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_2.c.obj: D:/Projects_C/Homeworks_Geekbrains/src/seminar_8/task_2.c
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_2.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_2.c.obj"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_2.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_2.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_2.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_2.c
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_2.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_2.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_2.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_2.c
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_2.c.i"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_2.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_2.c.i
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_2.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_2.c.i
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_2.c.s"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_2.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_2.c.s
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_2.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_2.c.s
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_3.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/flags.make
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_3.c.obj: D:/Projects_C/Homeworks_Geekbrains/src/seminar_8/task_3.c
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_3.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_3.c.obj"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_3.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_3.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_3.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_3.c
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_3.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_3.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_3.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_3.c
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_3.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_3.c.i"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_3.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_3.c.i
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_3.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_3.c.i
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_3.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_3.c.s"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_3.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_3.c.s
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_3.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_3.c.s
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_4.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/flags.make
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_4.c.obj: D:/Projects_C/Homeworks_Geekbrains/src/seminar_8/task_4.c
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_4.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_4.c.obj"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_4.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_4.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_4.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_4.c
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_4.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_4.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_4.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_4.c
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_4.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_4.c.i"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_4.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_4.c.i
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_4.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_4.c.i
 
 CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_4.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_4.c.s"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_4.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_4.c.s
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_8\task_4.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_8\task_4.c.s
+
+CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_1.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/flags.make
+CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_1.c.obj: D:/Projects_C/Homeworks_Geekbrains/src/seminar_9/task_1.c
+CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_1.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_1.c.obj"
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_1.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_9\task_1.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_9\task_1.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_9\task_1.c
+
+CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_1.c.i"
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_9\task_1.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_9\task_1.c.i
+
+CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_1.c.s"
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_9\task_1.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_9\task_1.c.s
+
+CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_2.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/flags.make
+CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_2.c.obj: D:/Projects_C/Homeworks_Geekbrains/src/seminar_9/task_2.c
+CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_2.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_2.c.obj"
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_2.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_9\task_2.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_9\task_2.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_9\task_2.c
+
+CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_2.c.i"
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_9\task_2.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_9\task_2.c.i
+
+CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_2.c.s"
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_9\task_2.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_9\task_2.c.s
+
+CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_3.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/flags.make
+CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_3.c.obj: D:/Projects_C/Homeworks_Geekbrains/src/seminar_9/task_3.c
+CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_3.c.obj: CMakeFiles/Homeworks_Geekbrains.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_3.c.obj"
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_3.c.obj -MF CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_9\task_3.c.obj.d -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_9\task_3.c.obj -c D:\Projects_C\Homeworks_Geekbrains\src\seminar_9\task_3.c
+
+CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_3.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_3.c.i"
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Projects_C\Homeworks_Geekbrains\src\seminar_9\task_3.c > CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_9\task_3.c.i
+
+CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_3.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_3.c.s"
+	D:\MSYS2\ucrt64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Projects_C\Homeworks_Geekbrains\src\seminar_9\task_3.c -o CMakeFiles\Homeworks_Geekbrains.dir\src\seminar_9\task_3.c.s
 
 # Object files for target Homeworks_Geekbrains
 Homeworks_Geekbrains_OBJECTS = \
@@ -294,7 +336,10 @@ Homeworks_Geekbrains_OBJECTS = \
 "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_1.c.obj" \
 "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_2.c.obj" \
 "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_3.c.obj" \
-"CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_4.c.obj"
+"CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_4.c.obj" \
+"CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_1.c.obj" \
+"CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_2.c.obj" \
+"CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_3.c.obj"
 
 # External object files for target Homeworks_Geekbrains
 Homeworks_Geekbrains_EXTERNAL_OBJECTS =
@@ -314,11 +359,14 @@ Homeworks_Geekbrains.exe: CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task
 Homeworks_Geekbrains.exe: CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_2.c.obj
 Homeworks_Geekbrains.exe: CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_3.c.obj
 Homeworks_Geekbrains.exe: CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_4.c.obj
+Homeworks_Geekbrains.exe: CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_1.c.obj
+Homeworks_Geekbrains.exe: CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_2.c.obj
+Homeworks_Geekbrains.exe: CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_3.c.obj
 Homeworks_Geekbrains.exe: CMakeFiles/Homeworks_Geekbrains.dir/build.make
 Homeworks_Geekbrains.exe: CMakeFiles/Homeworks_Geekbrains.dir/linkLibs.rsp
 Homeworks_Geekbrains.exe: CMakeFiles/Homeworks_Geekbrains.dir/objects1.rsp
 Homeworks_Geekbrains.exe: CMakeFiles/Homeworks_Geekbrains.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking C executable Homeworks_Geekbrains.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\Projects_C\Homeworks_Geekbrains\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking C executable Homeworks_Geekbrains.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Homeworks_Geekbrains.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

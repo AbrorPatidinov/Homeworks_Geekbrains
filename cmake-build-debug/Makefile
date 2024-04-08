@@ -488,6 +488,78 @@ src/seminar_8/task_4.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_4.c.s
 .PHONY : src/seminar_8/task_4.c.s
 
+src/seminar_9/task_1.obj: src/seminar_9/task_1.c.obj
+.PHONY : src/seminar_9/task_1.obj
+
+# target to build an object file
+src/seminar_9/task_1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_1.c.obj
+.PHONY : src/seminar_9/task_1.c.obj
+
+src/seminar_9/task_1.i: src/seminar_9/task_1.c.i
+.PHONY : src/seminar_9/task_1.i
+
+# target to preprocess a source file
+src/seminar_9/task_1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_1.c.i
+.PHONY : src/seminar_9/task_1.c.i
+
+src/seminar_9/task_1.s: src/seminar_9/task_1.c.s
+.PHONY : src/seminar_9/task_1.s
+
+# target to generate assembly for a file
+src/seminar_9/task_1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_1.c.s
+.PHONY : src/seminar_9/task_1.c.s
+
+src/seminar_9/task_2.obj: src/seminar_9/task_2.c.obj
+.PHONY : src/seminar_9/task_2.obj
+
+# target to build an object file
+src/seminar_9/task_2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_2.c.obj
+.PHONY : src/seminar_9/task_2.c.obj
+
+src/seminar_9/task_2.i: src/seminar_9/task_2.c.i
+.PHONY : src/seminar_9/task_2.i
+
+# target to preprocess a source file
+src/seminar_9/task_2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_2.c.i
+.PHONY : src/seminar_9/task_2.c.i
+
+src/seminar_9/task_2.s: src/seminar_9/task_2.c.s
+.PHONY : src/seminar_9/task_2.s
+
+# target to generate assembly for a file
+src/seminar_9/task_2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_2.c.s
+.PHONY : src/seminar_9/task_2.c.s
+
+src/seminar_9/task_3.obj: src/seminar_9/task_3.c.obj
+.PHONY : src/seminar_9/task_3.obj
+
+# target to build an object file
+src/seminar_9/task_3.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_3.c.obj
+.PHONY : src/seminar_9/task_3.c.obj
+
+src/seminar_9/task_3.i: src/seminar_9/task_3.c.i
+.PHONY : src/seminar_9/task_3.i
+
+# target to preprocess a source file
+src/seminar_9/task_3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_3.c.i
+.PHONY : src/seminar_9/task_3.c.i
+
+src/seminar_9/task_3.s: src/seminar_9/task_3.c.s
+.PHONY : src/seminar_9/task_3.s
+
+# target to generate assembly for a file
+src/seminar_9/task_3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Homeworks_Geekbrains.dir\build.make CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_3.c.s
+.PHONY : src/seminar_9/task_3.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -542,6 +614,15 @@ help:
 	@echo ... src/seminar_8/task_4.obj
 	@echo ... src/seminar_8/task_4.i
 	@echo ... src/seminar_8/task_4.s
+	@echo ... src/seminar_9/task_1.obj
+	@echo ... src/seminar_9/task_1.i
+	@echo ... src/seminar_9/task_1.s
+	@echo ... src/seminar_9/task_2.obj
+	@echo ... src/seminar_9/task_2.i
+	@echo ... src/seminar_9/task_2.s
+	@echo ... src/seminar_9/task_3.obj
+	@echo ... src/seminar_9/task_3.i
+	@echo ... src/seminar_9/task_3.s
 .PHONY : help
 
 

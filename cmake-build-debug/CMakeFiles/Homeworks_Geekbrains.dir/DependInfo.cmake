@@ -23,6 +23,9 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "D:/Projects_C/Homeworks_Geekbrains/src/seminar_8/task_2.c" "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_2.c.obj" "gcc" "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_2.c.obj.d"
   "D:/Projects_C/Homeworks_Geekbrains/src/seminar_8/task_3.c" "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_3.c.obj" "gcc" "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_3.c.obj.d"
   "D:/Projects_C/Homeworks_Geekbrains/src/seminar_8/task_4.c" "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_4.c.obj" "gcc" "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_8/task_4.c.obj.d"
+  "D:/Projects_C/Homeworks_Geekbrains/src/seminar_9/task_1.c" "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_1.c.obj" "gcc" "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_1.c.obj.d"
+  "D:/Projects_C/Homeworks_Geekbrains/src/seminar_9/task_2.c" "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_2.c.obj" "gcc" "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_2.c.obj.d"
+  "D:/Projects_C/Homeworks_Geekbrains/src/seminar_9/task_3.c" "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_3.c.obj" "gcc" "CMakeFiles/Homeworks_Geekbrains.dir/src/seminar_9/task_3.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
